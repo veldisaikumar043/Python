@@ -1,0 +1,17 @@
+List:
+-It is mutable. It means that a user can make any changes to a list.
+-list=[6, 7, 8, 9, 10]
+-It allows various duplicate elements.
+-print(list[0])
+
+Tuple:
+-It is immutable. It means that a user can’t make any changes to a tuple.
+-words=(6, 7, 8, 9, 10)
+-It allows various duplicate elements.
+-print(words[0])
+
+Dictionary:
+-It is mutable.
+-dict={1:"john",2:"Sai"}
+-The keys are not at all duplicated.
+-print(dict[1])
