@@ -58,3 +58,37 @@
 #     else:
 #         break
 
+# NUBER IS PRIME OR NOT
+# n=int(input("enter a number "))
+# primeFlag=True
+# for i in range(2,n-1):
+#     if n%i==0:
+#         primeFlag=False
+# if (primeFlag):
+#     print("Prime number")
+# else:
+#     print("Not a Prime number")
+
+# #ATM CHECKER
+# accBalance=10000
+# print("1 for check balance")
+# print("2 for withdraw ")
+# print("3 for deposit cash")
+# print("4 for deposit check")
+# n=int(input("enter a number"))
+# if n==1:
+#     print("available balance is",accBalance)
+# elif n==2:
+#     withdraw=int(input("enter amount you want to withdraw"))
+#     accBalance=accBalance-withdraw
+#     print("amount withdrawn is ", withdraw)
+#     print("available balance is", accBalance)
+# elif n==3:
+#     depositcash = int(input("enter amount you want to Deposit cash"))
+#     accBalance=accBalance+depositcash
+#     print("available balance is", accBalance)
+# elif n==4:
+#     depocheck=int(input("enter amount you want to Deposit cash"))
+#     print(depocheck," this amount you want to Deposit cash")
+
+#
