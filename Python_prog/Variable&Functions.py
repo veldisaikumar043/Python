@@ -17,3 +17,18 @@
 #     myfunc()
 #
 #     print("Python is " + x)
+
+# RECURSION
+# A function that calls itself is a recursive function.
+# This method is used when a certain problem is defined in terms of itself.
+
+# Greatest common divisor or Two numbers
+   # def gcd(a, b):
+   #    if b ==0:
+   #       return a
+   #    else:
+   #       return gcd(b,a%b)
+   # a = 128
+   # b = 96
+   # print(gcd(a, b))
+
