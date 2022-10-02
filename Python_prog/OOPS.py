@@ -75,7 +75,7 @@
 #     country.language()
 #     country.type()
 
-# OBSTRACTION
+# ABSTRACTION
 # It hides the unnecessary code details from the user. Also,  when we do not want to give out
 # sensitive parts of our code implementation and this is where data  abstraction came.
 # Data Abstraction in Python can be achieved through creating abstract classes.
