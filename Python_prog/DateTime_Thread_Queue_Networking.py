@@ -33,6 +33,34 @@
 #  - Multithreading aims to perform multiple tasks simultaneously, which increases performance,
 #    speed and improves the rendering of the application
 
+# ASSIGNMENT : MULTI THREADING
+from threading import Thread
+# from threading import*
+# def EvenNumbersThread():
+#     sleep(1)
+#     for i in range(1,101):
+#         if(i%2==0):
+#             print(i,end=" ")
+# def OddNumbersThread():
+#     sleep(1)
+#     for i in range(1,101):
+#         if(i%2!=0):
+#             print(i,end=" ")
+# def MainThread():
+#     for i in range(1,101):
+#         print(i,end=" ")
+#
+# even=Thread(target=EvenNumbersThread)
+# even.start()
+#
+# print("Next")
+# odd=Thread(target=OddNumbersThread)
+# odd.start()
+#
+# print("Next")
+# allNum=Thread(target=MainThread)
+# allNum.start()
+
 # THREAD SYNCHRONIZATION
 #  - The threading module provided with Python includes a simple-to-implement locking mechanism that
 #    allows you to synchronize threads. A new lock is created by calling the Lock() method, which
