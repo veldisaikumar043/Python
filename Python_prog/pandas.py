@@ -15,13 +15,14 @@
 #
 # print(df.to_string())
 
-import pandas as pd
+# import pandas as pd
+#
+# dataF = {
+#   "calories": [420, 380, 390],
+#   "duration": [50, 40, 45]
+# }
+# df = pd.DataFrame(dataF)
+# print(df)
 
-dataF = {
-  "calories": [420, 380, 390],
-  "duration": [50, 40, 45]
-}
-df = pd.DataFrame(dataF)
-print(df)
 
 

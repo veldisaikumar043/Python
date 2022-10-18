@@ -4,7 +4,7 @@
 # if a>b:
 #     print('a is greater')
 # else:
-#     print('b is greater')
+    print('b is greater')
 
 # FOR-LOOP
 # for i in range(1,11):
